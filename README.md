@@ -1,4 +1,4 @@
-# netflix-movie-analysis
+# Netflix-movie-analysis
 
 This project presents an exploratory data analysis (EDA) and visualization of a Netflix movie dataset. The analysis was done using Python (Pandas, Matplotlib, Seaborn) in Jupyter Notebook and Tableau for creating interactive dashboards.
 
