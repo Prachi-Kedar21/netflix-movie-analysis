@@ -15,7 +15,6 @@ This project presents an exploratory data analysis (EDA) and visualization of a 
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Jupyter Notebook
 - Tableau Public
-- GitHub
 
 ## Data Preprocessing
 
